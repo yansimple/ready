@@ -3,7 +3,7 @@ const result = document.querySelector('#result')
 
 load.addEventListener('click', (e) => {
     e.preventDefault();
-    result.innerText = 'click'
+    result.innerText = 'Вставлен текст'
 })
 
 
